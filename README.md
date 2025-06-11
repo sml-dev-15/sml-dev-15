@@ -10,7 +10,7 @@ I'm a developer passionate about building tools, clean interfaces, and efficient
 
 ### 📈 GitHub Analytics
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sml-dev-15&border_radius=5px&theme=dark&bg_color=1a1c1f&border_color=1a1c1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats)](https://wakatime.com/@sml-dev-15)
+[![Wakatime Stats]![sml-dev-15's Stats](https://github-readme-stats.vercel.app/api?username=sml-dev-15&theme=nord&show_icons=true&hide_border=false&count_private=false))
 
 ---
 
